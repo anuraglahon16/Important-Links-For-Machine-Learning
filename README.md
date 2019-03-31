@@ -1,2 +1,2 @@
-# Important-Links-For-Machine-Learning
+# Important Links For Machine Learning
 Important resources for machine learning
